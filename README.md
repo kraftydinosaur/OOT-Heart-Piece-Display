@@ -3,7 +3,7 @@
 Heart Piece Display for Zelda Ocarina of Time written in Python.
 Mainly intended for streaming or just for fun. Similar to
 [OOT Skulltula Counter](https://kraftydinosaur.github.io/projects/skulltula/).
-Automatically obtains heart piece the value from the running
+Automatically obtains heart piece value from the running
 **Mupen64** process.
 
 ![](readme/gui.png)
