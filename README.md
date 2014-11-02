@@ -40,11 +40,11 @@ should duplicate the file and rename the new file to **"user.conf"**.
 
 | Version   | Address      |
 | --------  | ------------ |
-| NTSC v1.0 | N/A |
+| NTSC v1.0 | **0xA060F7** |
 | NTSC v1.1 | **0xA062B7** |
-| NTSC v1.2 | N/A |
-| PAL v1.0  | N/A |
-| PAL v1.1  | N/A |
+| NTSC v1.2 | **0xA067A7** |
+| PAL v1.0  | **0xA03EF7** |
+| PAL v1.1  | **0xA03F37** |
 
 **Japanese and North American regions use NTSC, while Europe uses PAL.**
 
